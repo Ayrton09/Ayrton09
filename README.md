@@ -23,9 +23,7 @@
   <a href="https://www.paypal.com/paypalme/ayrton09argentina"><img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate with PayPal" /></a>
 </p>
 
----
-
-<h2 align="center">Tech Stack</h2>
+<p align="center"><strong>Tech Stack</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SourcePawn-111111?style=for-the-badge" />
