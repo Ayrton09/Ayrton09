@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Building plugins, server systems and custom gameplay for Counter-Strike communities.
+  Building plugins, server systems, and custom gameplay tools for Counter-Strike communities.
 </p>
 
 <p align="center">
