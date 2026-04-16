@@ -28,7 +28,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/SourcePawn-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SourceMod-2b2d42?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CounterStrikeSharp-5a189a?style=for-the-badge" />
   <img src="https://img.shields.io/badge/C%23-7b2cbf?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-3a0ca3?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
