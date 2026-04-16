@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Game Server Developer</b> • <b>SourceMod</b> • <b>SourcePawn</b> • <b>CounterStrikeSharp</b>
+  <b>Game Server Developer</b> • <b>SourceMod</b> • <b>SourcePawn</b> •
 </p>
 
 <p align="center">
@@ -26,7 +26,6 @@
 <p align="center"><strong>Tech Stack</strong></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SourcePawn-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SourceMod-2b2d42?style=for-the-badge" />
   <img src="https://img.shields.io/badge/C%23-7b2cbf?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-3a0ca3?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
